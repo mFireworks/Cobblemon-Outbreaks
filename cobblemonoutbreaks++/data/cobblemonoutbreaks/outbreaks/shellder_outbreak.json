@@ -1,0 +1,11 @@
+{
+    "species": "shellder",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_cold_ocean",
+        "#cobblemon:is_frozen_ocean"
+    ],
+    "spawn_range": 25.0
+}

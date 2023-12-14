@@ -1,0 +1,12 @@
+{
+    "species": "luvdisc",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_warm_ocean",
+        "preset: underwater"
+    ],
+    "spawn_range": 25.0,
+    "outbreak_max_y": 54
+}

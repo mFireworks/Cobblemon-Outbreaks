@@ -1,0 +1,10 @@
+{
+    "species": "sneasel",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_taiga"
+    ],
+    "spawn_range": 25.0
+}

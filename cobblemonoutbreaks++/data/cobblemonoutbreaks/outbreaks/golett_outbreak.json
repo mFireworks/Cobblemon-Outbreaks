@@ -1,0 +1,10 @@
+{
+    "species": "golett",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_deep_dark"
+    ],
+    "spawn_range": 25.0
+}

@@ -1,0 +1,11 @@
+{
+    "species": "yanma",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_freshwater",
+        "#cobblemon:is_lush"
+    ],
+    "spawn_range": 25.0
+}

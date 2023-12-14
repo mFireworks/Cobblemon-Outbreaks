@@ -1,0 +1,11 @@
+{
+    "species": "lapras",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "#cobblemon:is_frozen_ocean",
+        "#cobblemon:is_ocean"
+    ],
+    "spawn_range": 25.0
+}

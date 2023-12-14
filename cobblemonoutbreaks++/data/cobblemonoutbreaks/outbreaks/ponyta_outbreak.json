@@ -1,0 +1,11 @@
+{
+    "species": "ponyta",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_grassland",
+        "#cobblemon:is_nether_wasteland"
+    ],
+    "spawn_range": 25.0
+}

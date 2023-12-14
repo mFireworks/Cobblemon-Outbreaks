@@ -1,0 +1,11 @@
+{
+    "species": "roggenrola",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_cave"
+    ],
+    "spawn_range": 25.0,
+    "outbreak_max_y": 0
+}

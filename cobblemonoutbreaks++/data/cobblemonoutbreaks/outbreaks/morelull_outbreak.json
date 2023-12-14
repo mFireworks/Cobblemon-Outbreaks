@@ -1,0 +1,14 @@
+{
+    "species": "morelull",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_jungle",
+        "#cobblemon:is_magical",
+        "#cobblemon:is_mushroom",
+        "#cobblemon:is_lush",
+        "#cobblemon:is_nether_fungus"
+    ],
+    "spawn_range": 25.0
+}

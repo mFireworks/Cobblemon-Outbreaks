@@ -1,0 +1,11 @@
+{
+    "species": "wooper",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_swamp",
+        "#cobblemon:is_lush"
+    ],
+    "spawn_range": 25.0
+}

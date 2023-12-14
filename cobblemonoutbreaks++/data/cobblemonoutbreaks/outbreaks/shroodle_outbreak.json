@@ -1,0 +1,10 @@
+{
+    "species": "shroodle",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_jungle"
+    ],
+    "spawn_range": 25.0
+}

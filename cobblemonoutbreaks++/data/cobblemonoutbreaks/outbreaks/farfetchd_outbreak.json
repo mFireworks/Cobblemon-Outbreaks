@@ -1,0 +1,10 @@
+{
+    "species": "farfetch'd",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "#cobblemon:is_overworld"
+    ],
+    "spawn_range": 25.0
+}

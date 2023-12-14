@@ -1,0 +1,11 @@
+{
+    "species": "mudbray",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_badlands",
+        "#cobblemon:is_grassland"
+    ],
+    "spawn_range": 25.0
+}

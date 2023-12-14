@@ -1,0 +1,11 @@
+{
+    "species": "venonat",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_spooky",
+        "#cobblemon:is_swamp"
+    ],
+    "spawn_range": 25.0
+}

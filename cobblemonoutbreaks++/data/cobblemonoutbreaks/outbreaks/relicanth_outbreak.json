@@ -1,0 +1,11 @@
+{
+    "species": "relicanth",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "#cobblemon:is_deep_ocean"
+    ],
+    "spawn_range": 25.0,
+    "outbreak_max_y": 48
+}

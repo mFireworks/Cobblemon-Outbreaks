@@ -1,0 +1,11 @@
+{
+    "species": "oddish",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_jungle",
+        "#cobblemon:is_temperate"
+    ],
+    "spawn_range": 25.0
+}

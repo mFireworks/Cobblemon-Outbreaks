@@ -1,0 +1,11 @@
+{
+    "species": "falinks",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "#cobblemon:is_badlands",
+        "preset: nether_structures"
+    ],
+    "spawn_range": 25.0
+}

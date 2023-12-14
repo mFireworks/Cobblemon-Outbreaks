@@ -1,0 +1,11 @@
+{
+    "species": "wooper paldean",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "minecraft:mangrove_swamp",
+        "#cobblemon:is_savanna"
+    ],
+    "spawn_range": 25.0
+}

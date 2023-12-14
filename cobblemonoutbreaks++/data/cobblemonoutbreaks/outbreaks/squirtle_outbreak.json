@@ -1,0 +1,11 @@
+{
+    "species": "squirtle",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "preset: river",
+        "#cobblemon:is_beach"
+    ],
+    "spawn_range": 25.0
+}

@@ -1,0 +1,11 @@
+{
+    "species": "charmander",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "#cobblemon:is_hills",
+        "#cobblemon:is_volcanic"
+    ],
+    "spawn_range": 25.0
+}

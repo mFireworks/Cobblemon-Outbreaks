@@ -1,0 +1,11 @@
+{
+    "species": "onix",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_nether_basalt",
+        "#cobblemon:is_cave"
+    ],
+    "spawn_range": 25.0
+}

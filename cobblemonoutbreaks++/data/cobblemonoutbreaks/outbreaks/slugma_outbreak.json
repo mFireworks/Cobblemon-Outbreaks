@@ -1,0 +1,14 @@
+{
+    "species": "slugma",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "preset: lava_surface",
+        "#cobblemon:is_nether_basalt",
+        "#cobblemon:is_nether_wasteland",
+        "#minecraft:is_nether",
+        "#cobblemon:is_volcanic"
+    ],
+    "spawn_range": 25.0
+}

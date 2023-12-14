@@ -1,0 +1,13 @@
+{
+    "species": "maschiff",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_plains",
+        "preset: urban",
+        "preset: illager_structures",
+        "preset: mansion"
+    ],
+    "spawn_range": 25.0
+}

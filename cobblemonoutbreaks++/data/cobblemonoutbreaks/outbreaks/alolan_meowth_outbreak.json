@@ -1,0 +1,10 @@
+{
+    "species": "meowth alolan",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "preset: illager_structures"
+    ],
+    "spawn_range": 25.0
+}

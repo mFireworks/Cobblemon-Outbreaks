@@ -1,0 +1,11 @@
+{
+    "species": "chimchar",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "#cobblemon:is_mountain",
+        "#cobblemon:is_nether_fungus"
+    ],
+    "spawn_range": 25.0
+}

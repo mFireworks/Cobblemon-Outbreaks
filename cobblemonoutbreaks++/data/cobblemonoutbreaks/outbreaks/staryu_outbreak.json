@@ -1,0 +1,11 @@
+{
+    "species": "staryu",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_coast",
+        "#cobblemon:is_ocean"
+    ],
+    "spawn_range": 25.0
+}

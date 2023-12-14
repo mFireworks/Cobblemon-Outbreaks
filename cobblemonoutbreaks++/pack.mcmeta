@@ -1,0 +1,14 @@
+{
+   "pack": {
+      "pack_format": 15,
+      "description": "Cobblemonoutbreaks++ - Extra Outbreaks"
+   },
+   "filter": {
+      "block": [
+         {
+            "namespace": "cobblemonoutbreaks",
+            "path": "outbreaks/.*"
+         }
+      ]
+   }
+}

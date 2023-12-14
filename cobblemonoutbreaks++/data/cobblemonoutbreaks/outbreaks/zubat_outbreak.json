@@ -1,0 +1,10 @@
+{
+    "species": "zubat",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_overworld"
+    ],
+    "spawn_range": 25.0
+}

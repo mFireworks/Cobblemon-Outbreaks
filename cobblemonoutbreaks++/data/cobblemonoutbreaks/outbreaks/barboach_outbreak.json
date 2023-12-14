@@ -1,0 +1,11 @@
+{
+    "species": "barboach",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_swamp",
+        "preset: underwater"
+    ],
+    "spawn_range": 25.0
+}

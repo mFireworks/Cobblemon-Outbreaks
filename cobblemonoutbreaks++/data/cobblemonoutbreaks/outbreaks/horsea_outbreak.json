@@ -1,0 +1,12 @@
+{
+    "species": "horsea",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_lukewarm_ocean",
+        "#cobblemon:is_warm_ocean",
+        "preset: underwater"
+    ],
+    "spawn_range": 25.0
+}

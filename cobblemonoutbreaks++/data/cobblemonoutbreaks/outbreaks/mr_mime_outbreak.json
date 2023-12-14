@@ -1,0 +1,11 @@
+{
+    "species": "mr mime",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "preset: urban",
+        "#cobblemon:is_plains"
+    ],
+    "spawn_range": 25.0
+}

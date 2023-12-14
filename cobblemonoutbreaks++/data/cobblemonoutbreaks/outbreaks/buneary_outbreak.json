@@ -1,0 +1,13 @@
+{
+    "species": "buneary",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_forest",
+        "#cobblemon:is_hills",
+        "#cobblemon:is_snowy_forest",
+        "#cobblemon:is_taiga"
+    ],
+    "spawn_range": 25.0
+}

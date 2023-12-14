@@ -1,0 +1,10 @@
+{
+    "species": "spearow",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_savanna"
+    ],
+    "spawn_range": 25.0
+}

@@ -1,0 +1,11 @@
+{
+    "species": "spiritomb",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "#cobblemon:is_deep_dark",
+        "#cobblemon:is_spooky"
+    ],
+    "spawn_range": 25.0
+}

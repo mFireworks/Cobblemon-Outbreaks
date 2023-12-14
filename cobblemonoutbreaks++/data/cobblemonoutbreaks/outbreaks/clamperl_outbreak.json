@@ -1,0 +1,12 @@
+{
+    "species": "clamperl",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_deep_ocean",
+        "#cobblemon:is_warm_ocean"
+    ],
+    "spawn_range": 25.0,
+    "outbreak_max_y": 54
+}

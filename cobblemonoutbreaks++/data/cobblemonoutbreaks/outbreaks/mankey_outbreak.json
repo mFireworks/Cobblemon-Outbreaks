@@ -1,0 +1,11 @@
+{
+    "species": "mankey",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_hills",
+        "#cobblemon:is_jungle"
+    ],
+    "spawn_range": 25.0
+}

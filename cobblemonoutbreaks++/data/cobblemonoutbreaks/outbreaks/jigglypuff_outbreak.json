@@ -1,0 +1,11 @@
+{
+    "species": "jigglypuff",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_floral",
+        "#cobblemon:is_plains"
+    ],
+    "spawn_range": 25.0
+}

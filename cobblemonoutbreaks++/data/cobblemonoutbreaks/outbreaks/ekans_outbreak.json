@@ -1,0 +1,10 @@
+{
+    "species": "ekans",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_arid"
+    ],
+    "spawn_range": 25.0
+}

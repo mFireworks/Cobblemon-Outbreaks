@@ -1,0 +1,11 @@
+{
+    "species": "honedge",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "#minecraft:is_nether",
+        "preset: stronghold"
+    ],
+    "spawn_range": 25.0
+}

@@ -1,0 +1,13 @@
+{
+    "species": "phantump",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_forest",
+        "#cobblemon:is_taiga",
+        "#cobblemon:is_spooky",
+        "#cobblemon:is_nether_fungus"
+    ],
+    "spawn_range": 25.0
+}

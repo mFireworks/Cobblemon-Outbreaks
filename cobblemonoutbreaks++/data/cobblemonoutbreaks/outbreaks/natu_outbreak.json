@@ -1,0 +1,12 @@
+{
+    "species": "natu",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_badlands",
+        "#cobblemon:is_plateau",
+        "preset: trail_ruins"
+    ],
+    "spawn_range": 25.0
+}

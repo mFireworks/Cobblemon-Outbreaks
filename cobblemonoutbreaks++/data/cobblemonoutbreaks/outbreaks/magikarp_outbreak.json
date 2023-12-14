@@ -1,0 +1,11 @@
+{
+    "species": "magikarp",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_freshwater",
+        "#cobblemon:is_ocean"
+    ],
+    "spawn_range": 25.0
+}

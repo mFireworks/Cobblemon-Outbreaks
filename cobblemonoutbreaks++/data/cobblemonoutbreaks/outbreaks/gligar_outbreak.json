@@ -1,0 +1,11 @@
+{
+    "species": "gligar",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_badlands",
+        "#cobblemon:is_nether_mountain"
+    ],
+    "spawn_range": 25.0
+}

@@ -1,0 +1,13 @@
+{
+    "species": "eevee",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "#cobblemon:is_hills",
+        "#cobblemon:is_grassland",
+        "#cobblemon:is_plains",
+        "#cobblemon:is_forest"
+    ],
+    "spawn_range": 25.0
+}

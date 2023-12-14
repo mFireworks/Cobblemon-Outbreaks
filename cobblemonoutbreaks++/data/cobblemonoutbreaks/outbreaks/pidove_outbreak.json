@@ -1,0 +1,12 @@
+{
+    "species": "pidove",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_mountain",
+        "#cobblemon:is_sky",
+        "#cobblemon:is_plains"
+    ],
+    "spawn_range": 25.0
+}

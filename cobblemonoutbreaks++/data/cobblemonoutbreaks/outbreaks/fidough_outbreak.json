@@ -1,0 +1,11 @@
+{
+    "species": "fidough",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_magical",
+        "preset: urban"
+    ],
+    "spawn_range": 25.0
+}

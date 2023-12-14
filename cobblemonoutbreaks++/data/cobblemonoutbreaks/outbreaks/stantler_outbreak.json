@@ -1,0 +1,11 @@
+{
+    "species": "stantler",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_snowy_forest",
+        "#cobblemon:is_tundra"
+    ],
+    "spawn_range": 25.0
+}

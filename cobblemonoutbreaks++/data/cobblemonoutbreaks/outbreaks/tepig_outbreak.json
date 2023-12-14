@@ -1,0 +1,11 @@
+{
+    "species": "tepig",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "#cobblemon:is_plains",
+        "#cobblemon:is_nether_crimson"
+    ],
+    "spawn_range": 25.0
+}
