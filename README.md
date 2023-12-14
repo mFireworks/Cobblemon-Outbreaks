@@ -1,6 +1,6 @@
 # Cobblemon Outbreaks++
 
-Adds additional mass outbreaks to Cobblemon. Requires Cobblemon Mod and Cobblemon Mass Outbreaks Mod.
+Adds additional mass outbreaks to Cobblemon. Requires [Cobblemon Mod](https://modrinth.com/mod/cobblemon) and [Cobblemon Mass Outbreaks Mod](https://modrinth.com/mod/cobblemon-mass-outbreaks).
 
 ## Overview
 
