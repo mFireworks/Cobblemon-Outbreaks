@@ -1,0 +1,10 @@
+{
+    "species": "darumaka",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#minecraft:is_nether"
+    ],
+    "spawn_range": 25.0
+}

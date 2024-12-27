@@ -1,0 +1,11 @@
+{
+    "species": "aron",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_overworld",
+        "#cobblemon:is_mountain"
+    ],
+    "spawn_range": 25.0
+}

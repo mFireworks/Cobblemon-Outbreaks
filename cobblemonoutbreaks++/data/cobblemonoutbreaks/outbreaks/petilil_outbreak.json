@@ -1,0 +1,11 @@
+{
+    "species": "petilil",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_floral",
+        "#cobblemon:is_forest"
+    ],
+    "spawn_range": 25.0
+}

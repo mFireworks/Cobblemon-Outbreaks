@@ -1,0 +1,10 @@
+{
+    "species": "gossifleur",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_floral"
+    ],
+    "spawn_range": 25.0
+}

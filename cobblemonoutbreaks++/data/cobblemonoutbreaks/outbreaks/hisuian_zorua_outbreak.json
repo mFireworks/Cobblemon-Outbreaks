@@ -1,0 +1,12 @@
+{
+    "species": "zorua hisuian",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "#cobblemon:is_snowy_forest",
+        "minecraft:snowy_taiga",
+        "#minecraft:is_nether"
+    ],
+    "spawn_range": 25.0
+}

@@ -1,0 +1,12 @@
+{
+    "species": "tyrunt",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "#cobblemon:is_lush",
+        "preset: underwater"
+    ],
+    "spawn_range": 25.0,
+    "outbreak_max_y": 54
+}

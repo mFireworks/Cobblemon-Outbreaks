@@ -1,0 +1,11 @@
+{
+    "species": "larvesta",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_nether_crimson",
+        "#cobblemon:is_nether_forest"
+    ],
+    "spawn_range": 25.0
+}

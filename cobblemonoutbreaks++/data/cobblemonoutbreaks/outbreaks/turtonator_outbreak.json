@@ -1,0 +1,12 @@
+{
+    "species": "turtonator",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_volcanic",
+        "#cobblemon:is_nether_basalt",
+        "#cobblemon:is_thermal"
+    ],
+    "spawn_range": 25.0
+}

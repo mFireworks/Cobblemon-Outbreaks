@@ -1,0 +1,10 @@
+{
+    "species": "cubchoo",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_frozen_ocean"
+    ],
+    "spawn_range": 25.0
+}

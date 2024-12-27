@@ -1,0 +1,11 @@
+{
+    "species": "impidimp",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "common",
+    "biome": [
+        "#cobblemon:is_nether_warped",
+        "#cobblemon:is_nether_forest"
+    ],
+    "spawn_range": 25.0
+}

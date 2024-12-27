@@ -1,0 +1,11 @@
+{
+    "species": "rowlet hisuian",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "#cobblemon:is_forest",
+        "#cobblemon:is_taiga"
+    ],
+    "spawn_range": 25.0
+}

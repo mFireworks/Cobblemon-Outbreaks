@@ -1,0 +1,11 @@
+{
+    "species": "cranidos",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "#cobblemon:is_lush"
+    ],
+    "spawn_range": 25.0,
+    "outbreak_max_y": 54
+}

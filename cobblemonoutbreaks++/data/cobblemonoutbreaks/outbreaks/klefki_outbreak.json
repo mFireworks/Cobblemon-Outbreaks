@@ -1,0 +1,11 @@
+{
+    "species": "klefki",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "preset: urban",
+        "#cobblemon:is_plains"
+    ],
+    "spawn_range": 25.0
+}

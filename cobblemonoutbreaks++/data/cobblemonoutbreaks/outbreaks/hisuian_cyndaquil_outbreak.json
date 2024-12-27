@@ -1,0 +1,14 @@
+{
+    "species": "cyndaquil hisuian",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "epic",
+    "biome": [
+        "#cobblemon:is_temperate",
+        "#cobblemon:is_taiga",
+        "#cobblemon:is_nether_crimson",
+        "#cobblemon:is_nether_forest",
+        "#cobblemon:is_nether_overgrowth"
+    ],
+    "spawn_range": 25.0
+}

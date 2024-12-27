@@ -1,0 +1,11 @@
+{
+    "species": "skarmory",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "rare",
+    "biome": [
+        "#cobblemon:is_badlands",
+        "#cobblemon:is_desert"
+    ],
+    "spawn_range": 25.0
+}

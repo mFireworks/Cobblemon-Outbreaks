@@ -1,0 +1,11 @@
+{
+    "species": "qwilfish",
+    "waves": 3,
+    "spawns_per_wave": 5,
+    "rarity": "uncommon",
+    "biome": [
+        "#cobblemon:is_lukewarm_ocean",
+        "#cobblemon:is_warm_ocean"
+    ],
+    "spawn_range": 25.0
+}
