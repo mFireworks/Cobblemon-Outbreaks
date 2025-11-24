@@ -1,11 +1,33 @@
 {
-    "species": "gligar",
-    "waves": 3,
-    "spawns_per_wave": 5,
-    "rarity": "common",
-    "biome": [
-        "#cobblemon:is_badlands",
-        "#cobblemon:is_nether_mountain"
-    ],
-    "spawn_range": 25.0
+    "spawn_settings": {
+        "outbreak_min_y": -63,
+        "outbreak_max_y": 255,
+        "biome_settings": {
+            "biome": [
+                "#cobblemon:is_badlands",
+                "#cobblemon:is_nether_mountain"
+            ]
+        }
+    },
+    "gate_timer": 72000,
+        "species_data": {
+        "pokemon": "gligar",
+        "wave_data": {
+            "waves": 3,
+            "spawns_per_wave": 5
+        },
+        "species_shiny_data": {
+            "shiny_choice": "config",
+            "shiny_chance": 1024.0
+        },
+        "pokemon_rarity": "common"
+    },
+    "algorithms": {
+        "level_algorithm": {
+            "type": "cobblemonoutbreaks:scaled"
+        },
+        "spawn_algorithm": {
+            "type": "cobblemonoutbreaks:open_field"
+        }
+    }
 }

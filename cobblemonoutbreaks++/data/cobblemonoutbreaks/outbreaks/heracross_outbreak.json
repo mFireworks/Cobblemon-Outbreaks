@@ -1,10 +1,32 @@
 {
-    "species": "heracross",
-    "waves": 3,
-    "spawns_per_wave": 5,
-    "rarity": "uncommon",
-    "biome": [
-        "#cobblemon:is_jungle"
-    ],
-    "spawn_range": 25.0
+    "spawn_settings": {
+        "outbreak_min_y": -63,
+        "outbreak_max_y": 255,
+        "biome_settings": {
+            "biome": [
+                "#cobblemon:is_jungle"
+            ]
+        }
+    },
+    "gate_timer": 72000,
+        "species_data": {
+        "pokemon": "heracross",
+        "wave_data": {
+            "waves": 3,
+            "spawns_per_wave": 5
+        },
+        "species_shiny_data": {
+            "shiny_choice": "config",
+            "shiny_chance": 1024.0
+        },
+        "pokemon_rarity": "uncommon"
+    },
+    "algorithms": {
+        "level_algorithm": {
+            "type": "cobblemonoutbreaks:scaled"
+        },
+        "spawn_algorithm": {
+            "type": "cobblemonoutbreaks:open_field"
+        }
+    }
 }

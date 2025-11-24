@@ -1,10 +1,32 @@
 {
-    "species": "aerodactyl",
-    "waves": 3,
-    "spawns_per_wave": 5,
-    "rarity": "epic",
-    "biome": [
-        "#cobblemon:is_lush"
-    ],
-    "spawn_range": 25.0
+    "spawn_settings": {
+        "outbreak_min_y": -63,
+        "outbreak_max_y": 54,
+        "biome_settings": {
+            "biome": [
+                "#cobblemon:is_lush"
+            ]
+        }
+    },
+    "gate_timer": 72000,
+        "species_data": {
+        "pokemon": "aerodactyl",
+        "wave_data": {
+            "waves": 3,
+            "spawns_per_wave": 5
+        },
+        "species_shiny_data": {
+            "shiny_choice": "config",
+            "shiny_chance": 1024.0
+        },
+        "pokemon_rarity": "epic"
+    },
+    "algorithms": {
+        "level_algorithm": {
+            "type": "cobblemonoutbreaks:scaled"
+        },
+        "spawn_algorithm": {
+            "type": "cobblemonoutbreaks:open_field"
+        }
+    }
 }

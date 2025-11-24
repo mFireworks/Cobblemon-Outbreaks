@@ -1,10 +1,32 @@
 {
-    "species": "charcadet",
-    "waves": 3,
-    "spawns_per_wave": 5,
-    "rarity": "rare",
-    "biome": [
-        "#minecraft:is_nether"
-    ],
-    "spawn_range": 25.0
+    "spawn_settings": {
+        "outbreak_min_y": -63,
+        "outbreak_max_y": 255,
+        "biome_settings": {
+            "biome": [
+                "#minecraft:is_nether"
+            ]
+        }
+    },
+    "gate_timer": 72000,
+        "species_data": {
+        "pokemon": "charcadet",
+        "wave_data": {
+            "waves": 3,
+            "spawns_per_wave": 5
+        },
+        "species_shiny_data": {
+            "shiny_choice": "config",
+            "shiny_chance": 1024.0
+        },
+        "pokemon_rarity": "rare"
+    },
+    "algorithms": {
+        "level_algorithm": {
+            "type": "cobblemonoutbreaks:scaled"
+        },
+        "spawn_algorithm": {
+            "type": "cobblemonoutbreaks:open_field"
+        }
+    }
 }
