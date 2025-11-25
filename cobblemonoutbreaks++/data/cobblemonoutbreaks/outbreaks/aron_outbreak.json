@@ -4,7 +4,6 @@
         "outbreak_max_y": 255,
         "biome_settings": {
             "biome": [
-                "#cobblemon:is_overworld",
                 "#cobblemon:is_mountain"
             ]
         }
