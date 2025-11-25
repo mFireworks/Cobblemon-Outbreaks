@@ -4,7 +4,7 @@
         "outbreak_max_y": 255,
         "biome_settings": {
             "biome": [
-                "preset: river",
+                "#cobblemon:is_river",
                 "#cobblemon:is_beach"
             ]
         }
