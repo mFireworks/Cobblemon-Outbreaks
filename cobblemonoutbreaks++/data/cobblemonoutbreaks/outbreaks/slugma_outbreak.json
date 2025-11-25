@@ -1,14 +1,36 @@
 {
-    "species": "slugma",
-    "waves": 3,
-    "spawns_per_wave": 5,
-    "rarity": "common",
-    "biome": [
-        "preset: lava_surface",
-        "#cobblemon:is_nether_basalt",
-        "#cobblemon:is_nether_wasteland",
-        "#minecraft:is_nether",
-        "#cobblemon:is_volcanic"
-    ],
-    "spawn_range": 25.0
+    "spawn_settings": {
+        "outbreak_min_y": -63,
+        "outbreak_max_y": 255,
+        "biome_settings": {
+            "biome": [
+                "preset: lava_surface",
+                "#cobblemon:is_nether_basalt",
+                "#cobblemon:is_nether_wasteland",
+                "#minecraft:is_nether",
+                "#cobblemon:is_volcanic"
+            ]
+        }
+    },
+    "gate_timer": 72000,
+        "species_data": {
+        "pokemon": "slugma",
+        "wave_data": {
+            "waves": 3,
+            "spawns_per_wave": 5
+        },
+        "species_shiny_data": {
+            "shiny_choice": "config",
+            "shiny_chance": 1024.0
+        },
+        "pokemon_rarity": "common"
+    },
+    "algorithms": {
+        "level_algorithm": {
+            "type": "cobblemonoutbreaks:scaled"
+        },
+        "spawn_algorithm": {
+            "type": "cobblemonoutbreaks:open_field"
+        }
+    }
 }

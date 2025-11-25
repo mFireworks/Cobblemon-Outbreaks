@@ -1,12 +1,34 @@
 {
-    "species": "torkoal",
-    "waves": 3,
-    "spawns_per_wave": 5,
-    "rarity": "uncommon",
-    "biome": [
-        "#cobblemon:is_mountain",
-        "#cobblemon:is_thermal",
-        "#cobblemon:is_nether_basalt"
-    ],
-    "spawn_range": 25.0
+    "spawn_settings": {
+        "outbreak_min_y": -63,
+        "outbreak_max_y": 255,
+        "biome_settings": {
+            "biome": [
+                "#cobblemon:is_mountain",
+                "#cobblemon:is_thermal",
+                "#cobblemon:is_nether_basalt"
+            ]
+        }
+    },
+    "gate_timer": 72000,
+        "species_data": {
+        "pokemon": "torkoal",
+        "wave_data": {
+            "waves": 3,
+            "spawns_per_wave": 5
+        },
+        "species_shiny_data": {
+            "shiny_choice": "config",
+            "shiny_chance": 1024.0
+        },
+        "pokemon_rarity": "uncommon"
+    },
+    "algorithms": {
+        "level_algorithm": {
+            "type": "cobblemonoutbreaks:scaled"
+        },
+        "spawn_algorithm": {
+            "type": "cobblemonoutbreaks:open_field"
+        }
+    }
 }
