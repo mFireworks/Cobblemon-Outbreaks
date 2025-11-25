@@ -4,14 +4,14 @@
         "outbreak_max_y": 255,
         "biome_settings": {
             "biome": [
-                "#cobblemon:is_lukewarm_ocean",
-                "#cobblemon:is_warm_ocean"
+                "#cobblemon:is_freshwater",
+                "preset: underwater"
             ]
         }
     },
     "gate_timer": 72000,
         "species_data": {
-        "pokemon": "qwilfish",
+        "pokemon": "basculin",
         "wave_data": {
             "waves": 3,
             "spawns_per_wave": 5

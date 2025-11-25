@@ -1,11 +1,33 @@
 {
-    "species": "impidimp",
-    "waves": 3,
-    "spawns_per_wave": 5,
-    "rarity": "common",
-    "biome": [
-        "#cobblemon:is_nether_warped",
-        "#cobblemon:is_nether_forest"
-    ],
-    "spawn_range": 25.0
+    "spawn_settings": {
+        "outbreak_min_y": -63,
+        "outbreak_max_y": 255,
+        "biome_settings": {
+            "biome": [
+                "#cobblemon:is_nether_warped",
+                "#cobblemon:is_nether_forest"
+            ]
+        }
+    },
+    "gate_timer": 72000,
+        "species_data": {
+        "pokemon": "impidimp",
+        "wave_data": {
+            "waves": 3,
+            "spawns_per_wave": 5
+        },
+        "species_shiny_data": {
+            "shiny_choice": "config",
+            "shiny_chance": 1024.0
+        },
+        "pokemon_rarity": "common"
+    },
+    "algorithms": {
+        "level_algorithm": {
+            "type": "cobblemonoutbreaks:scaled"
+        },
+        "spawn_algorithm": {
+            "type": "cobblemonoutbreaks:open_field"
+        }
+    }
 }

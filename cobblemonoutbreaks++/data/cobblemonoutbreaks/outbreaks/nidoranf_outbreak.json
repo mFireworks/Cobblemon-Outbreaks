@@ -4,14 +4,13 @@
         "outbreak_max_y": 255,
         "biome_settings": {
             "biome": [
-                "#cobblemon:is_lukewarm_ocean",
-                "#cobblemon:is_warm_ocean"
+                "#cobblemon:is_savanna"
             ]
         }
     },
     "gate_timer": 72000,
         "species_data": {
-        "pokemon": "qwilfish",
+        "pokemon": "nidoranf",
         "wave_data": {
             "waves": 3,
             "spawns_per_wave": 5
@@ -20,7 +19,7 @@
             "shiny_choice": "config",
             "shiny_chance": 1024.0
         },
-        "pokemon_rarity": "uncommon"
+        "pokemon_rarity": "common"
     },
     "algorithms": {
         "level_algorithm": {
