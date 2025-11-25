@@ -4,7 +4,7 @@
         "outbreak_max_y": 255,
         "biome_settings": {
             "biome": [
-                "preset: river"
+                "#cobblemon:is_river"
             ]
         }
     },
@@ -20,6 +20,11 @@
             "shiny_chance": 1024.0
         },
         "pokemon_rarity": "common"
+    },
+    "rewards": {
+        "item_rewards": [
+        ],
+        "experience_reward": 0
     },
     "algorithms": {
         "level_algorithm": {

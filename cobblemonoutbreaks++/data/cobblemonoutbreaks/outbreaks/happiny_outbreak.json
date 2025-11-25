@@ -4,8 +4,7 @@
         "outbreak_max_y": 255,
         "biome_settings": {
             "biome": [
-                "#cobblemon:is_plains",
-                "preset: urban"
+                "#cobblemon:is_plains"
             ]
         }
     },
@@ -21,6 +20,11 @@
             "shiny_chance": 1024.0
         },
         "pokemon_rarity": "rare"
+    },
+    "rewards": {
+        "item_rewards": [
+        ],
+        "experience_reward": 0
     },
     "algorithms": {
         "level_algorithm": {

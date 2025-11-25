@@ -4,9 +4,7 @@
         "outbreak_max_y": 32,
         "biome_settings": {
             "biome": [
-                "#cobblemon:is_cave",
-                "preset: underwater",
-                "preset: water_surface"
+                "#cobblemon:is_cave"
             ]
         }
     },
@@ -22,6 +20,11 @@
             "shiny_chance": 1024.0
         },
         "pokemon_rarity": "rare"
+    },
+    "rewards": {
+        "item_rewards": [
+        ],
+        "experience_reward": 0
     },
     "algorithms": {
         "level_algorithm": {

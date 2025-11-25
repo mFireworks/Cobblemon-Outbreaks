@@ -5,8 +5,7 @@
         "biome_settings": {
             "biome": [
                 "#cobblemon:is_lukewarm_ocean",
-                "#cobblemon:is_warm_ocean",
-                "preset: underwater"
+                "#cobblemon:is_warm_ocean"
             ]
         }
     },
@@ -22,6 +21,11 @@
             "shiny_chance": 1024.0
         },
         "pokemon_rarity": "common"
+    },
+    "rewards": {
+        "item_rewards": [
+        ],
+        "experience_reward": 0
     },
     "algorithms": {
         "level_algorithm": {

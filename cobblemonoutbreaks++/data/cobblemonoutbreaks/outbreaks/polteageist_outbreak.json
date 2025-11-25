@@ -11,8 +11,7 @@
                 "#cobblemon:is_snowy",
                 "#cobblemon:is_spooky",
                 "#cobblemon:is_taiga",
-                "#cobblemon:is_tundra",
-                "preset: urban"
+                "#cobblemon:is_tundra"
             ]
         }
     },
@@ -28,6 +27,11 @@
             "shiny_chance": 1024.0
         },
         "pokemon_rarity": "uncommon"
+    },
+    "rewards": {
+        "item_rewards": [
+        ],
+        "experience_reward": 0
     },
     "algorithms": {
         "level_algorithm": {

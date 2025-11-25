@@ -23,6 +23,11 @@
         },
         "pokemon_rarity": "epic"
     },
+    "rewards": {
+        "item_rewards": [
+        ],
+        "experience_reward": 0
+    },
     "algorithms": {
         "level_algorithm": {
             "type": "cobblemonoutbreaks:scaled"
